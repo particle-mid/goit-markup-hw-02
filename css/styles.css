@@ -98,7 +98,6 @@ body {
   /* section */
   .section-title {
     color: var(--title-color);
-    font-weight: 700;
     font-size: 36px;
     line-height: 1.17;
     text-align: center;
@@ -106,7 +105,6 @@ body {
   
   .section .title {
     color: var(--title-color);
-    font-weight: 700;
     font-size: 14px;
     line-height: 1.14;
   }
@@ -164,6 +162,7 @@ body {
   }
   
   .footer .link {
+    font-style: normal;
     color: var(--paragraph-footer-color);
     font-weight: 400;
     font-size: 14px;
@@ -180,7 +179,6 @@ body {
   
   .portfolio .title {
     color: var(--title-color);
-    font-weight: 700;
     font-size: 18px;
     line-height: 2;
     letter-spacing: 0.06em;
